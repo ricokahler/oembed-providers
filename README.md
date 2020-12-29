@@ -1,5 +1,9 @@
 # Oembed Providers Mirror
 
+> https://oembedproviders.xyz/api/providers
+>
+> OR
+>
 > https://oembed-providers.vercel.app/api/providers
 
 This is a simple mirror of `https://oembed.com/providers.json` via Vercel.
