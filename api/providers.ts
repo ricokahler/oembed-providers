@@ -4,6 +4,12 @@ import { NowApiHandler } from '@vercel/node';
 const fetch = createFetch();
 
 const handler: NowApiHandler = async (req, res) => {
+  if (req.method === 'OPTIONS') {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.status(200).end();
+    return;
+  }
+
   if (req.method !== 'GET') {
     res.status(404).end();
     return;
