@@ -1,0 +1,19 @@
+{
+  "name": "oembed-providers",
+  "version": "1.0.0",
+  "description": "A simple mirror of https://oembed.com/providers.json with CORS enabled",
+  "keywords": ["oembed"],
+  "author": {
+    "email": "ricokahler@me.com",
+    "name": "Rico Kahler",
+    "url": "https://github.com/ricokahler"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/fetch": "^6.1.0",
+    "@vercel/node": "^1.8.5"
+  },
+  "devDependencies": {
+    "vercel": "^21.0.1"
+  }
+}
