@@ -12,11 +12,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@vercel/fetch": "^6.1.0",
-    "@vercel/node": "^1.8.5",
-    "node-fetch": "^2.6.1"
+    "@vercel/fetch": "6.1.0",
+    "@vercel/node": "1.8.5",
+    "node-fetch": "2.6.1"
   },
   "devDependencies": {
-    "vercel": "^21.0.1"
+    "vercel": "21.0.1"
   }
 }
