@@ -13,10 +13,10 @@
   "license": "MIT",
   "dependencies": {
     "@vercel/fetch": "6.1.0",
-    "@vercel/node": "1.9.0",
+    "@vercel/node": "1.9.1",
     "node-fetch": "2.6.1"
   },
   "devDependencies": {
-    "vercel": "21.3.2"
+    "vercel": "21.3.3"
   }
 }
