@@ -17,6 +17,6 @@
     "node-fetch": "2.6.1"
   },
   "devDependencies": {
-    "vercel": "21.3.3"
+    "vercel": "22.0.1"
   }
 }
