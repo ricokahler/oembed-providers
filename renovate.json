@@ -2,5 +2,6 @@
   "extends": ["config:base", "schedule:earlyMondays"],
   "groupName": "all",
   "rebaseWhen": "behind-base-branch",
+  "ignoreDeps": ["node-fetch"],
   "automerge": true
 }
