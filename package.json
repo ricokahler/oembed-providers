@@ -12,8 +12,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@vercel/fetch": "6.1.1",
-    "@vercel/node": "1.12.1",
+    "@vercel/fetch": "6.2.0",
+    "@vercel/node": "1.15.4",
     "node-fetch": "2.6.2"
   },
   "devDependencies": {
